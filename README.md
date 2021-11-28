@@ -9,6 +9,10 @@ A third year B.Tech Computer Science student at Mar Baselios college of engineer
 🌱 I’m currently learning Web Development.
 
 ### 📞Contact Me
+![twitter-svgrepo-com 1](https://user-images.githubusercontent.com/74013241/143735756-929138ee-3e2d-479c-8021-a493cfd0963f.png) :
+![linkedin-svgrepo-com 1](https://user-images.githubusercontent.com/74013241/143735753-6476643f-3060-460c-a7a3-6ddd64cf2783.png): 
+![instagram-2-1-logo-svgrepo-com 1](https://user-images.githubusercontent.com/74013241/143735748-d2d9aed4-5854-4726-8610-10c9815e3993.png): 
+
 
 
 
