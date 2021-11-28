@@ -9,9 +9,13 @@ A third year B.Tech Computer Science student at Mar Baselios college of engineer
 🌱 I’m currently learning Web Development.
 
 ### 📞Contact Me
-![twitter-svgrepo-com 1](https://user-images.githubusercontent.com/74013241/143735863-41504ce6-7993-43f9-8076-30c2dd829d98.png) https://twitter.com/MerinRhea
-![linkedin-svgrepo-com 1](https://user-images.githubusercontent.com/74013241/143735861-c5d15a62-b02c-4580-918c-2766c8293102.png) https://www.linkedin.com/in/rhea-merin-thomas-5a31b61b5/
-![instagram-2-1-logo-svgrepo-com 1](https://user-images.githubusercontent.com/74013241/143735856-6931c3cd-1a38-4e00-8aa2-41c5f3bff829.png) https://www.instagram.com/rhea.merin/
+![twitter-svgrepo-com 1](https://user-images.githubusercontent.com/74013241/143735863-41504ce6-7993-43f9-8076-30c2dd829d98.png) https://twitter.com/MerinRhea <br>
+![linkedin-svgrepo-com 1](https://user-images.githubusercontent.com/74013241/143735861-c5d15a62-b02c-4580-918c-2766c8293102.png) https://www.linkedin.com/in/rhea-merin-thomas-5a31b61b5/ <br>
+![instagram-2-1-logo-svgrepo-com 1](https://user-images.githubusercontent.com/74013241/143735856-6931c3cd-1a38-4e00-8aa2-41c5f3bff829.png) https://www.instagram.com/rhea.merin/ <br>
+✨If you have any quirres or feedbacks, please feel free to reach out to me 
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=RheaMerin)](https://github.com/RheaMerin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RheaMerin&layout=compact)](https://github.com/RheaMerin)
 
 
 
