@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<!--
-**RheaMerin/RheaMerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Technical Skills
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
