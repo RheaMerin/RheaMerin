@@ -1,5 +1,5 @@
+ ### 👋Hii, I am Rhea Merin Thomas.
 <h2 align="center">
-  ### 👋Hii, I am Rhea Merin Thomas.
 I'm a Front-end Web Developer 💻 and a Designer 🎨!
 </h2> 
 A third year B.Tech Computer Science student at Mar Baselios college of engineering and Technology.
