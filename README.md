@@ -21,6 +21,7 @@ A third year B.Tech Computer Science student at Mar Baselios college of engineer
 ![twitter](https://user-images.githubusercontent.com/74013241/150143077-a2485099-ba3f-4940-a4e0-0e714fecb129.png)https://twitter.com/MerinRhea <br>
 ![linkedin (1)](https://user-images.githubusercontent.com/74013241/150143075-750ae9c9-9f4a-4e5c-a31d-507d6f51fd4e.png)https://www.linkedin.com/in/rhea-merin-thomas/ <br>
 ![instagram](https://user-images.githubusercontent.com/74013241/150143288-2393ca84-3e4c-4afe-aba1-e23db192e4db.png)https://www.instagram.com/rhea.merin/ <br>
+![cv (1)](https://user-images.githubusercontent.com/74013241/150143652-3aa1d0cb-991f-4775-bbcd-0b7c45e9d588.png)https://docs.google.com/document/d/1fAZihckmRUVSW7eBY_qh3nPQIqf_bZRUYQYITCqqeTM/edit?usp=sharing<br>
 <br>
 ✨If you have any quetions or feedbacks, please feel free to reach out to me. 
 
