@@ -12,6 +12,7 @@ A third year B.Tech Computer Science student at Mar Baselios college of engineer
 🔭 I’m currently working on Graphic Designing. <br>
 🌱 I’m currently learning Web Development.
 
+[![Rhea’s github stats](https://github-readme-stats.vercel.app/api?username=RheaMerin)](https://github.com/RheaMerin)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RheaMerin&layout=compact)](https://github.com/RheaMerin)
 
 ### 📞Contact Me
