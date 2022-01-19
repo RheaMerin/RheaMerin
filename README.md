@@ -18,10 +18,9 @@ A third year B.Tech Computer Science student at Mar Baselios college of engineer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RheaMerin&layout=compact)](https://github.com/RheaMerin)
 
 ### 📞Contact Me
-:point_right:https://twitter.com/MerinRhea <br>
-![1377213](https://user-images.githubusercontent.com/74013241/150142568-c353602a-31cb-4e7b-9585-06f4b8cf6931.png)
-https://www.linkedin.com/in/rhea-merin-thomas/ <br>
-:point_right:https://www.instagram.com/rhea.merin/ <br>
+![twitter](https://user-images.githubusercontent.com/74013241/150143077-a2485099-ba3f-4940-a4e0-0e714fecb129.png)https://twitter.com/MerinRhea <br>
+![linkedin (1)](https://user-images.githubusercontent.com/74013241/150143075-750ae9c9-9f4a-4e5c-a31d-507d6f51fd4e.png)https://www.linkedin.com/in/rhea-merin-thomas/ <br>
+![instagram](https://user-images.githubusercontent.com/74013241/150143288-2393ca84-3e4c-4afe-aba1-e23db192e4db.png)https://www.instagram.com/rhea.merin/ <br>
 <br>
 ✨If you have any quetions or feedbacks, please feel free to reach out to me. 
 
