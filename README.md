@@ -3,7 +3,6 @@
 👋Hii, I am Rhea Merin Thomas. <br>
 I'm a Front-end Web Developer 💻 and a Designer 🎨!
 </h2> 
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
 A third year B.Tech Computer Science student at Mar Baselios college of engineering and Technology.
 
 ### 👩‍💻Technical Skills
